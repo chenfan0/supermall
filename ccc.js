@@ -3,3 +3,7 @@ console.log('aaaaa');
 console.log('ddd');
 console.log('ffff');
 console.log('master');
+
+function add(x) {
+  return x + 20
+}
