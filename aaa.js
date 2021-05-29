@@ -6,3 +6,6 @@ const sum = (x, y) => {
 
 const test1 = 10
 const test2 = 20
+const add = (a, b) => {
+  a + b
+}
